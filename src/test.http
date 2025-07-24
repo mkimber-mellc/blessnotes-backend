@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/journal
+Content-Type: application/json
+
+{
+  "title": "Test entry only has title"
+}
